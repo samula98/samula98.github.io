@@ -6,7 +6,7 @@ I am attending the CNM Ingenuity's Deep Dive Coding Java and Android Bootcamp. M
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/ddc-java-20/android-hello-world-samula98)
 
 * Hello World: Android app
 
