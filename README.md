@@ -11,3 +11,5 @@ I am attending the CNM Ingenuity's Deep Dive Coding Java and Android Bootcamp. M
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/samantha-dicker-625539327)
